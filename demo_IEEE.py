@@ -31,7 +31,7 @@ search_url = 'https://ieeexplore.ieee.org/Xplore/home.jsp'
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88'}
 wait = WebDriverWait(browser,100,0.5)
 
-with open('ieee_final.csv','r') as f1:
+with open('ieee.csv','r') as f1:
     reader = csv.reader(f1)
     for row in reader:
         year,pub,journal,title = row
