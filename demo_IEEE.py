@@ -18,6 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import re
 
 chrome_options = Options()
+# 阻止预览pdf
 chrome_options.add_experimental_option('prefs',  {
     "download.default_directory": os.path.dirname(os.path.realpath(__file__)),
     "download.prompt_for_download": False,
