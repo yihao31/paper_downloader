@@ -1,0 +1,130 @@
+2021,IEEE,TPAMI, Tasks Integrated Networks: Joint Detection and Retrieval for Image Search
+2021,IEEE,TPAMI, Enhanced Tensor RPCA and Its Application
+2021,IEEE,TIFS,Soft Semantic Representation for Cross-Domain Face Recognition
+2021,IEEE,TNNLS,Wavelet-based Dual Recursive Network for Image Super-Resolution
+2021,IEEE, TGRS,Spectral-Spatial-Weighted Multiview Collaborative Sparse Unmixing for Hyperspectral Images
+2021,IEEE,TGRS,Adaptive Edge Preserving Maps in Markov Random Fields for Hyperspectral Image Classification
+2021,IEEE,TMM,Mean and Deviation of Deep and Local Similarity for Image Quality Assessment
+2021,IEEE,TNNLS,Knowledge Distillation for Face Photo-Sketch Synthesis
+2021,IEEE,Tcyb,No Reference Quality Assessment for Screen Content Images Using Stacked Autoencoders in Pictorial and Textual Regions
+2020,IEEE,TIFS,Face Sketch Synthesis in the Wild via Deep Patch Representation based Probabilistic Graphical Model
+2020,IEEE,TIP,Exploiting Related and Unrelated Tasks for Hierarchical Metric Learning and Image Classification
+2020,IEEE,TIP,Cascaded Face Sketch Synthesis under Various Illuminations
+2020,IEEE,JBHI,Progressive Sub-Band Residual-Learning Network for MR Image Super Resolution
+2020,IEEE,TGRS, Aurora Image Search with a Saliency-Weighted Region Network
+2020,IEEE,Tcyb,Bionic Face Sketch Generator
+2020,IEEE,TIP,CGAN-TM: A Novel Domain-to-Domain Transferring Method for Person Re-Identification
+2020,IEEE,TIP,A Novel Symmetry Driven Siamese Network for THz Concealed Object Verification
+2020,IEEE,TIE,SAT: Single-Shot Adversarial Tracker
+2020,IEEE,TIP,Group Feedback Capsule Network
+2020,IEEE,TITS,Small-scale Pedestrian Detection Based on Deep Neural Network
+2020,IEEE,TNNLS, Neural Probabilistic Graphical Model for Face Sketch Synthesis
+2020,IEEE,TNNLS,Precise Measurement of Position and Attitude Based on Convolutional Neural Network and Visual Correspondence Relationship
+2020,IEEE,TNNLS,Objective Video Quality Assessment Combining Transfer Learning with CNN
+2020,IEEE,TNNLS,Discriminative Fast Hierarchical Learning for Multiclass Image Classification
+2020,IEEE, TGRS,A Rotational Libra R-CNN Method for Ship Detection
+2020,IEEE,TIP,Universal Face Photo-Sketch Style Transfer via Multiview Domain Translation.
+2020,IEEE,TMM,No-Reference Quality Evaluation of Stereoscopic Video Based on Spatio-Temporal Texture
+2020,IEEE,TCSVT,No-reference Quality Evaluation of Stereoscopic Videos with Inter-frame Cross on a Content-rich Database
+2020,IEEE,TCSVT,Channel-wise and Spatial Feature Modulation Network for Single Image Super-Resolution
+2020,IEEE,TCyb,Biprediction-Based Video Quality Enhancement via Learning
+2020,IEEE,TCSVT,Learning to Acquire the Quality of Human Pose Estimation
+2020,IEEE,TMM,Beyond Vision: A Multimodal Recurrent Attention Convolutional Neural Network for Unified Image Aesthetic Prediction Tasks
+2020,IEEE,TNNLS,Coupled Attribute Learning for Heterogeneous Face Recognition
+2020,IEEE,Tcyb,Multiview Clustering by Joint Latent Representation and Similarity Learning
+2020,IEEE,Tcyb,Hierarchical Deep Embedding for Aurora Image Retrieval
+2019,IEEE,TPAMI,Label Consistent Matrix Factorization Hashing for Large-Scale Cross-Modal Similarity Search
+2019,IEEE,TIP,Dual-Transfer Face Sketch�CPhoto Synthesis
+2019,IEEE,TIP, A Blind Stereoscopic Image Quality Evaluator with Segmented Stacked Autoencoders Considering the Whole Visual Perception Route
+2019,IEEE,Access ,Image Classification Using Low-Rank Regularized Extreme Learning Machine
+2019,IEEE,Access ,An End-to-End Noise-Weakened Person Re-Identification and Tracking With Adaptive Partial Information
+2019,IEEE,Tcyb, R12-DPCA and Face Recognition
+2019,IEEE,Tcyb,A Hybrid Level Set with Semantic Shape Constraint for Object Segmentation
+2019,IEEE,TGRS,Markov Random Fields Integrating Adaptive Interclass-Pair Penalty and Spectral Similarity for Hyperspectral Image Classification
+2019,IEEE,TNNLS,Data Augmentation-Based Joint Learning for Heterogeneous Face Recognition
+2019,IEEE,Tcyb,Multiview Clustering Based on Non-Negative Matrix Factorization and Pairwise Measurements
+2019,IEEE,Access,Aurora Image Search With Saliency Deep Features
+2019,IEEE,GRSL,Region-Based Multiview Sparse Hyperspectral Unmixing Incorporating Spectral Library
+2019,IEEE,TIP,No-Reference Quality Assessment for View Synthesis Using DoG-based Edge Statistics and Texture Naturalness
+2019,IEEE,TIP,Re-ranking High-Dimensional Deep Local Representation for NIR-VIS Face Recognition
+2019,IEEE,Access,MFNN: Position and Attitude Measurement Neural Network Based on Multi-Feature Fusion
+2019,IEEE,TCSVT,Blind Video Quality Assessment with Weakly Supervised Learning and Resampling Strategy
+2019,IEEE,Access,Cross-Domain Face Sketch Synthesis
+2019,IEEE,TNNLS,A Deep Collaborative Framework for Face Photo-Sketch Synthesis
+2019,IEEE,TNNLS,Deep Latent Low-Rank Representation for Face Sketch Synthesis
+2019,IEEE,TMM,A Gated Peripheral-Foveal Convolutional Neural Network for Unified Image Aesthetic Prediction
+2019,IEEE,Access,A Visual Residual Perception Optimized Network for Blind Image Quality Assessment
+2019,IEEE, JSTARS,Urban Observation: Integration of Remote Sensing and Social Media Data
+2018,IEEE,TIP,Knowledge Based Topic Model for Unsupervised Object Discovery and Localization
+2018,IEEE,TIP,Tensor Rank Preserving Discriminant Analysis for Facial Recognition
+2018,IEEE,TIP,"Feiping Nie. L2,p-norm based PCA for Image Recognition"
+2018,IEEE,TCyb,Compositional Model-based Sketch Generator in Facial Entertainment
+2018,IEEE,TNNLS,Robust DLPP With Nongreedy ?1-Norm Minimization and Maximization
+2018,IEEE,Tcyb,Angle 2DPCA: A New Formulation for 2DPCA
+2018,IEEE,TGRS,An Integrated Spatio-Spectral-Temporal Sparse Representation Method for Fusing Remote Sensing Images with Different Resolutions.
+2018,IEEE,Access,Neural-Network Aided Dynamic Control for Delivering Media Streams in Selfish Wireless Networks with Unknown Node-Selfishness
+2018,IEEE,Access,A Comparative Study on Face Sketch Synthesis
+2018,IEEE,Access,"L2, 1-Norm Discriminant Manifold Learning"
+2018,IEEE,TIP,Eye Fixation Assisted Video Saliency Detection via Total Variation-Based Pairwise Interaction
+2018,IEEE,TIP,Triplet-Based Deep Hashing Network for Cross-Modal Retrieval
+2018,IEEE,TIP,Single Image Dehazing With Depth-aware Non-local Total Variation Regularization
+2018,IEEE,TIP,Single Image Super-Resolution via Multiple Mixture Prior Models
+2018,IEEE,TCSVT,Anchored Neighborhood Index for Face Sketch Synthesis
+2018,IEEE,TCSVT,Robust and Flexible Discrete Hashing for Cross-Modal Similarity Search.
+2018,IEEE,Multimeida,Discovering Latent Aspects for Diversity-induced Image Retrieval
+2017,IEEE,TPAMI,Graphical Representation for Heterogeneous Face Recognition
+2017,IEEE,TCSVT,Robust Sparse Coding for Mobile Image Labeling on the Cloud
+2017,IEEE,TCSVT,Face Sketch Synthesis from a Single Photo-Sketch Pair
+2017,IEEE,TCSVT,Superpixel-based Face Sketch-Photo Synthesis
+2017,IEEE,TIP,A Non-greedy Algorithm for L1-norm LDA
+2017,IEEE,Tcyb,Latent Max-Margin Multitask Learning With Skelets for 3-D Action Recognition
+2017,IEEE,TIP,Bayesian Face Sketch Synthesis
+2017,IEEE,TMM,Discriminative Multi-Instance Multi-Task Learning for 3D Action Recognition
+2017,IEEE,TNNLS,Coarse-to-Fine Learning for Single-Image Super-Resolution
+2017,IEEE,TIP, Using Gaussian Process Regression with Dictionary-based Sampling and Student-t Likelihood
+2016,IEEE,TGRS,Despeckling of SAR Image Using Generalized Guided Filter with Bayesian Non-Local Means
+2016,IEEE,TIP,Robust Face Sketch Style Synthesis
+2016,IEEE,TNNLS,Shape-Constrained Sparse and Low-Rank Decomposition for Auroral Substorm Detection
+2016,IEEE,TCyb,Semi-supervised Nonnegative Matrix Factorization via Constraint Propagation
+2016,IEEE,TIP,Single Image Super-resolution Using Active-sampling Gaussian Process Regression
+2016,IEEE,TMM,iscriminative Dictionary Learning with Common Label Alignment for Cross-Modal Retrieval
+2016,IEEE,TGRS,Efficient Multiple Feature Learning Based Hyperspectral Image Classification With Limited Training Samples
+2016,IEEE,TIP,"SERF: A Simple, Effective,Robust, and Fast Image Super-Resolver From Cascaded Linear Regression"
+2016,IEEE,TSMC-S,Landmark Reranking for Smart Travel Guide Systems by Combining and Analyzing Diverse Media
+2016,IEEE,TNNLS, Multiple Representations-Based Face Sketch-Photo Synthesis
+2016,IEEE,TNNLS,Similarity Constraints-Based Structured Output Regression Machine: An Approach to Image Super-Resolution
+2016,IEEE,TIP,Multimodal Discriminative Binary Embedding for Large-Scale Cross-Modal Retrieval
+2016,IEEE,TCyb,Architecture-Driven Level Set Optimization: From Clustering to Subpixel Image Segmentation
+2017,IEEE,CC,Cooperative Jamming for Enhancing Security of Cognitive Radio Networks with Multiple Primary Users
+2020,IEEE,CVPR,Towards Transferable Targeted Attack
+2020,IEEE,CVPRW,NTIRE 2020 Challenge on Perceptual Extreme Super-Resolution: Methods and Results
+2020,IEEE,ICME,ABP: Adaptive Body Partition Model For Visible Infrared Person Re-Identification.
+2020,IEEE,IGRSS,Spatial-Spectral Autoencoder Networks for Hyperspectral Unmixing
+2020,IEEE,IGRSS,Hyperspectral Unmixing via Recurrent Neural Network with Chain Classifier
+2019,IEEE,ICASSP, Multi-scale Spatial-temporal Networks for Person Re-identification
+2019,IEEE,ICME,Improving Image Super-resolution via Feature Re-Balancing Fusion
+2019,IEEE,ICME,Person re-identification with gradual background suppression
+2019,IEEE,IGARSS,T-SCNN: A Two-stage Convolutional Neural Network for Space Target Recognition
+2019,IEEE,IGARSS, Non-Local Compressive Network for Hyperspectral and Multispectral Data Fusion
+2019,IEEE,ICIP, Learning a cascade regression for no-reference super-resolution image quality assessment
+2019,IEEE,ISPACS,Influence of significant target on image quality assessment via EEG
+2019,IEEE,CVPRW,NTIRE 2019 Challenge on Image Enhancement: Methods and Results
+2019,IEEE,CVPRW,NTIRE 2019 Challenge on Real Image Super-Resolution: Methods and Results
+2019,IEEE,ICCVW,Un-Paired Real World Super-Resolution with Degradation Consistency
+2019,IEEE,ICCVW,AIM 2019 Challenge on Real-World Image Super-Resolution: Methods and Results. 
+2017,IEEE,ICIP,A Nonlocal Operator Model for Morphological Image Processing
+2018,IEEE,ICIP,Single Image Super Resolution based on Deep Residual Network via Lateral Modules
+2018,IEEE,ICASSP,Blind Image Quality Assessment Based on Visuo-Spatial Series Statistics
+2017,IEEE,ICGIP,Adaptive multi-view clustering based on nonnegative matrix factorization and pairwise co-regularization
+2018,IEEE,CVPR,Fast and Accurate Single Image Super-Resolution via Information Distillation Network
+2018,IEEE,CVPR,Self-Supervised Adversarial Hashing Networks for Cross-Modal Retrieval.
+2018,IEEE,ICPR,Adaptive Latent Representation for Multi-view Subspace Learning
+2018,IEEE,ICPR,Two-Stage Convolutional Network for Image Super-Resolution
+2018,IEEE,ICME,Saliency Deep Embedding for Aurora Image Search
+2018,IEEE,ICDMW ,Learning via Social Preference: A Coarse-to-fine Training Strategy for Style Transfer Systems
+2018,IEEE,ICCC,Integrating GAN with CNN for Face Sketch Synthesis
+2017,IEEE,ICCV,Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding
+2016,IEEE,CVPR,Ordinal Regression with Multiple Output CNN for Age Estimation
+2016,IEEE,IJCNN,Embedded Locality Discriminant GPLVM for Dimensionality Reduction
+2016,IEEE,WCSP,Composite Face Sketch Recognition based on Components
+2016,IEEE,ICSP,Robust tracking by selecting object-related candidates with deep features

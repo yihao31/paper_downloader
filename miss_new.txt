@@ -1,0 +1,42 @@
+2021,elsevier,SP, Learning Stacking Regression for No-reference Super-resolution Image Quality Assessment
+2021,elsevier,INS,Progressive Perception-oriemted Network for Single Image Super-resolution
+2021-elsevier-SP-Single image super-resolution with multi-scale information cross-fusion network.pdf
+2020-elsevier-PR-Saliency Detection via Deep Conditional Random Field Network.pdf
+2020-elsevier-NN- Person Re-Identification with Feature Pyramid Optimization and Gradual Background Suppression.pdf
+2020-elsevier-SPIC-Special Issue on Advances in Statistical Methods-based Visual Quality Assessment..pdf
+2020-elsevier-Neurocomputing-Image Super-Resolution via Multi-view Information Fusion Networks.pdf
+2020-elsevier-Neurocomputing-Hierarchical convolutional neural network via hierarchical cluster validity based visual tree learning.pdf
+2020-elsevier-Neurocomputing-Human Scanpath Estimation based on Semantic Segmentation Guided by Common Eye Fixation Behaviors.pdf
+2019-elsevier-SP-Learning Recurrent Residual Regressors for Single Image Super-Resolution.pdf
+2019-elsevier-SP-Sparse Graphical Representation Based Discriminant Analysis for Heterogeneous Face Recognition.pdf
+2019-elsevier-Neurocomputing-Advances in Data Representation and Learning for Pattern Analysis.pdf
+2019-elsevier-Neurocomputing-A Novel Joint Dictionary Framework for Sparse Hyperspectral Unmixing Incorporating Spectral Library.pdf
+2019-elsevier-SPIC-Fusion Global and Local Deep Representations with Neural Attention for Aesthetic Quality Assessment.pdf
+2019-elsevier-NN-Adaptive Robust Principal Component Analysis.pdf
+2018-elsevier-Neurocomputing-Facial Feature Point Detection  A Comprehensive Survey.pdf
+2018-elsevier-Neurocomputing- Collaborative learning for hyper- spectral image classification.pdf
+2018-elsevier-PR- SVM based Multi-lable Learning with Missing Labels for Image Annotation.pdf
+2018-elsevier-Neurocomputing-Aurora Image Search with Contextual CNN Feature. Neurocomputing.pdf
+2018-elsevier-PRL-Back Projection  An Effective Postprocessing Method for GAN-based Face Sketch Synthesis.pdf
+2018-elsevier-Neurocomputing-Euler Label Consistent K-SVD for image classification and action recognition.pdf
+2018-elsevier-PRL- Face Sketch Aging via Aging Oriented Principal Component Analysis.pdf
+2018-elsevier-Neurocomputing-Text detection in natural scene images based on color prior guided MSER.pdf
+2018-elsevier-Neurocomputing-Dominant vanishing point detection in the wild with application in composition analysis.pdf
+2017-elsevier-PR-Hierarchical Leaning of Multi-Task Sparse Metrics for Large-Scale Image Classification.pdf
+2017-elsevier-SP-Haze removal for a single visible remote sensing image.pdf
+2017-elsevier-PR-Optimal Mean Two-dimensional Principal Component Analysis with F-norm Minimization.pdf
+2017-elsevier-Neurocomputing-A Superpixel-based CRF Saliency Detection Approach.pdf
+2017-elsevier-Neurocomputing-Special issue on 2016 International Conference on Intelligence Science and Big Data Engineering.pdf
+2016-elsevier-Neurocomputing-A Novel Dimensionality Reduction Method with Discriminative Generalized Eigen-decomposition.pdf
+2016-elsevier-Neurocomputing-Attraction recommendation  Towards personalized tourism via collective intelligence.pdf
+2016-elsevier-Neurocomputing-Shape-Constrained Level Set Segmentation for Hybrid CPU-GPU Computers.pdf
+2016-elsevier-Neurocomputing-Recent Developments on Deep Big Vision.pdf
+2016-elsevier-SP-Single Image Super-resolution Using Regularization of Non-local Steering Kernel Regression.pdf
+2016-elsevier-Neurocomputing-Image Super-resolution Using Non-local Gaussian Process Regression.pdf
+2016-elsevier-Neurocomputing-On the Schatten Norm for Matrix based Subspace Learning and Classification.pdf
+2020-elsevier-Neurocomputing-Image Super-Resolution via Multi-view Information Fusion Networks.pdf
+2020-elsevier-Neurocomputing-Hierarchical convolutional neural network via hierarchical cluster validity based visual tree learning.pdf
+2020-elsevier-Neurocomputing-Human Scanpath Estimation based on Semantic Segmentation Guided by Common Eye Fixation Behaviors.pdf
+2019-elsevier-Neurocomputing-Advances in Data Representation and Learning for Pattern Analysis.pdf
+2019-elsevier-Neurocomputing-A Novel Joint Dictionary Framework for Sparse Hyperspectral Unmixing Incorporating Spectral Library.pdf
+2018-elsevier-Neurocomputing-Facial Feature Point Detection  A Comprehensive Survey.pdf
